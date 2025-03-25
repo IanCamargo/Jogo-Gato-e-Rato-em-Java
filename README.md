@@ -99,7 +99,3 @@ Ao final de cada rodada, o placar geral é exibido ordenado por pontuação. Ao 
 ## Considerações
 
 Este projeto foi desenvolvido para demonstrar os conceitos de Programação Orientada a Objetos em Java, incluindo encapsulamento, uso de coleções e controle de fluxo. Sinta-se à vontade para contribuir com melhorias ou adaptações.
-
----
-
-Espero que este README atenda às suas necessidades para o GitHub! Se precisar de mais alguma alteração, estou à disposição.
