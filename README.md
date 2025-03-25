@@ -14,7 +14,7 @@ Este é um jogo simples desenvolvido em Java que utiliza conceitos de Programaç
 
 **Professores:**
 
--   👨🏻‍🏫 **Marcos Roberto de Moraes (Maromo)** - [@maromo71]((https://github.com/maromo71))
+-   👨🏻‍🏫 **Marcos Roberto de Moraes (Maromo)** - [@maromo71](https://github.com/maromo71)
 
 **Autor:**
 
