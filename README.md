@@ -12,7 +12,7 @@ Este é um jogo simples desenvolvido em Java que utiliza conceitos de Programaç
 
 -   🖥️ Programação Orientada a Objetos
 
-**Professores:**
+**Professor:**
 
 -   👨🏻‍🏫 **Marcos Roberto de Moraes (Maromo)** - [@maromo71](https://github.com/maromo71)
 
